@@ -10,8 +10,10 @@ Responsive Design: Adjusts to different screen sizes, ensuring a seamless experi
 Simple Layout: Focuses on structure and style, using basic elements and techniques for layout.
 Educational Purpose: This project reflects the skills I developed during the initial stages of learning frontend development.
 
-# Live Demo
-You can view the live version of the project here: Live Demo
+
+## Live Demo
+You can view the live demo here: [frontendmntr_uyg](https://dicle-123.github.io/frontendmntr_uyg/)
+
 
 # Technologies Used
 HTML
